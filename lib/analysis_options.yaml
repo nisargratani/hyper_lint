@@ -17,6 +17,7 @@ analyzer:
     missing_required_param: warning
     missing_return: warning
 
+# Taken from https://github.com/dart-lang/linter/blob/master/example/all.yaml
 linter:
   rules:
     - always_declare_return_types
